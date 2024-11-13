@@ -27,13 +27,11 @@ on:
         options:
           - amd64
           - arm64
-          - arm64/v8
           - arm/v7
           - arm/v6
           - 386
           - s390x
           - ppc64le
-          - linux/amd64
 
 jobs:
   build:
